@@ -1,0 +1,3 @@
+func hi args  luis
+
+func log args  hi
